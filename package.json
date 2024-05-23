@@ -1,0 +1,13 @@
+{
+  "name": "api-movies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./main.js" 
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
